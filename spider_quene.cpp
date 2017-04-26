@@ -23,10 +23,7 @@ using namespace std;
 #define MAX_BUF (1024 * 1024 * 10)
 #define MAX_THREAD 10
 
-const char URL_POST[100] = {"http://my.csdn.net/service/main/uc"};
-
-#define POSTFIELDS_BEGIN "params=%7B%22method%22%3A%22getContact%22%2C%22username%22%3A%22";
-
+ 
 extern QueueManager Surl_queue;
 extern QueueManager Our_queue;
 
@@ -51,18 +48,18 @@ char* tag = "href=\"";
  clock_t startTime,endTime;	
 void get_personinfo(char* url, int threadid);
 
-long GetOneField(char *& sTotal, const char* nPosBegin,const char * sSpan,char ** sOut) {
+long GetOneField(char * sTotal, const char* nPosBegin,const char * sSpan,char ** sOut) {
 	char * sPos = NULL;
 	long nPosEnd = 0;
 	long nLen = 0;
-	
+
 	nLen = strlen(sTotal);
 	char * B_Pos = strstr(sTotal, nPosBegin);
 	if(B_Pos == NULL)
 		return 0;
 	
 	B_Pos += strlen(nPosBegin);		
-		
+	
 
 	sPos = strstr(B_Pos, sSpan);
 	if (sPos == NULL) {
@@ -72,7 +69,7 @@ long GetOneField(char *& sTotal, const char* nPosBegin,const char * sSpan,char *
 	}
 	memcpy(*sOut, B_Pos, nPosEnd);
 	(*sOut)[nPosEnd] = 0;
-	sTotal = sPos;
+
 
 	return nPosEnd;
 }
@@ -126,20 +123,20 @@ size_t get_url_frompage(char* wr_buf, int threadid, ostream& fout)
 		struct surl URL;
 		URL.url = (string)url; 		
 		URL.deep_level = 1;
-		/*if(Our_queue.find(URL) == -1)
+		if(Our_queue.find(URL) == -1)
 		{
 			Our_queue.Add(URL);				
 			if(Our_queue.size() > 102400)
 				Our_queue.pop();
 			
 			get_personinfo(url,threadid);
-		}*/
-		if(!Bloom_F_URL._IsIn(URL.url))
+		}
+		/*if(!Bloom_F_URL._IsIn(URL.url))
 		{
 			Bloom_F_URL._Set(URL.url);
 			get_personinfo(url,threadid);
 			
-		}
+		}*/
 	}
 		
 	//cout<<"ok1"<<endl;
@@ -147,6 +144,7 @@ size_t get_url_frompage(char* wr_buf, int threadid, ostream& fout)
 	while(pos)
 	{
 		pos += strlen(tag);
+		//printf("content: %s\n",pos);
 		pos_urlend = strstr(pos, "\"");
 		
 		if(pos_urlend)
@@ -178,9 +176,9 @@ size_t get_url_frompage(char* wr_buf, int threadid, ostream& fout)
 			//cout<<"ok4"<<endl;
 			child_url.deep_level = thread_url[threadid].deep_level + 1;
                         //std::smatch m;
-		 	    //pthread_mutex_lock( &pt_mutex_2 );
-			    //all_url++;
-			    //pthread_mutex_unlock( &pt_mutex_2 );
+		 	    pthread_mutex_lock( &pt_mutex_2 );
+			    all_url++;
+			    pthread_mutex_unlock( &pt_mutex_2 );
                         for(int i = 0; i < reg_string.size(); ++i)
                         {
 			     //cout<<"ok5"<<endl;
@@ -220,18 +218,18 @@ size_t get_url_frompage(char* wr_buf, int threadid, ostream& fout)
 					}
 				}
 
-				//int flag = Our_queue.find(child_url);
-				//if(flag == -1)
-				if(!Bloom_F_URL._IsIn(child_url.url))
+				int flag = Our_queue.find(child_url);
+				if(flag == -1)
+				//if(!Bloom_F_URL._IsIn(child_url.url))
 				{
-					//printf("allurl:%d,newurl: %s, level: %d\n", all_url,child_url.url.c_str(),child_url.deep_level);
+					printf("allurl:%d,newurl: %s, level: %d\n", all_url,child_url.url.c_str(),child_url.deep_level);
 					Surl_queue.Save(child_url,threadid);
-					//Our_queue.Add(child_url);
+					Our_queue.Add(child_url);
 						
 					
-					//if(Our_queue.size() > 102400)
-					//	Our_queue.pop();
-					Bloom_F_URL._Set(child_url.url);
+					if(Our_queue.size() > 102400)
+						Our_queue.pop();
+					//Bloom_F_URL._Set(child_url.url);
 				}	
                                 	break;  
                             }
@@ -283,113 +281,72 @@ size_t write_data( void *buffer, size_t size, size_t nmemb, void *userp )
   *dstbuf += segsize;
    thread_size[thread_pid] += segsize;  
    /* Return the number of bytes received, indicating to curl that all is okay */    
+  
   return segsize;    
  }    
-
-int get_content(char* url,void* ptr,int flag = 0,char *postfields=NULL)
-{
-	
-  	CURL *curl;   
-  	curl = curl_easy_init();    
-  	/* First step, init curl */    
-  	if (!curl) {    
-    		printf("couldn't init curl\n");    
-    		return 0;   
-	}
-  	/* Tell curl the URL of the file we're going to retrieve */    
-	 curl_easy_setopt( curl, CURLOPT_URL, url );    
-
-	if(flag == 1)
-	{
-		curl_easy_setopt(curl,CURLOPT_POST,1); //ÉÖÎ·Ç±í±¾´βÙ÷ost   
- 		curl_easy_setopt(curl,CURLOPT_POSTFIELDS,postfields); //post²ÎýOD
-		curl_easy_setopt(curl,CURLOPT_HEADER,1); //½«ÏӦͷÐϢºÍàÌһÆ´«¸øe_data  
-	        curl_easy_setopt(curl,CURLOPT_FOLLOWLOCATION,1); //ÉÖΪ·Ç,ÏӦͷÐϢlocation  
-		curl_easy_setopt(curl, CURLOPT_COOKIEFILE, "/src/spider/Spider_byCplus/curlposttest.cookie");  
-	}
-  	/* Tell curl that we'll receive data to the function write_data, and  
-   	* also provide it with a context pointer for our error return.  
-   	*/    
-  	curl_easy_setopt( curl, CURLOPT_WRITEDATA, ptr );    
-  	curl_easy_setopt( curl, CURLOPT_WRITEFUNCTION, write_data );    
- 
-	curl_easy_setopt( curl, CURLOPT_USERAGENT, "Mozilla/5.0");  
-  	/* Allow curl to perform the action */    
-	int ret = curl_easy_perform( curl );
-	
-	if(curl != NULL)	
-  		curl_easy_cleanup( curl );  
-	return ret;
-}
 
 void get_personinfo(char* url, int threadid)
 {
 
 	Persioninfo Persion;
+  	CURL *curl;   
+  	curl = curl_easy_init();    
 	 
+  	/* First step, init curl */    
+  	if (!curl) {    
+    		printf("couldn't init curl\n");    
+    		return;   
+	}
 
 
-	char*  wr_buf = NULL;
-	char* wr_buf2 = NULL;    
+	char*  wr_buf = NULL;    
 	if(wr_buf == NULL)
 		wr_buf = (char*)malloc(MAX_BUF+1);
-	if(wr_buf2 == NULL)
-		wr_buf2 = (char*)malloc(MAX_BUF+1);
+  	/* Tell curl the URL of the file we're going to retrieve */    
+	 curl_easy_setopt( curl, CURLOPT_URL, url );    
+  
+  	/* Tell curl that we'll receive data to the function write_data, and  
+   	* also provide it with a context pointer for our error return.  
+   	*/    
  	
 	if(wr_buf == NULL)
 		return;
 	memset(wr_buf, 0 ,MAX_BUF+1);
-	memset(wr_buf2, 0 ,MAX_BUF+1);
    	
   	char* ptr = wr_buf; 
+  	curl_easy_setopt( curl, CURLOPT_WRITEDATA, &ptr );    
+  	curl_easy_setopt( curl, CURLOPT_WRITEFUNCTION, write_data );    
+ 
+	curl_easy_setopt( curl, CURLOPT_USERAGENT, "Mozilla/5.0");  
+  	/* Allow curl to perform the action */    
+  	int ret = curl_easy_perform( curl );
 
-	get_content(url,&ptr);
 	if(strlen(wr_buf) > 0)
 	{
-		//char* persion_t = strstr(wr_buf,"class=\"persional_property\"");
-		char* persion_t = strstr(wr_buf,"class=\"user_name\"");
+		char* persion_t = strstr(wr_buf,"class=\"persional_property\"");
 		if(persion_t != NULL)
 		{
-			
-			char* ptr = Persion.true_name;
-			GetOneField(persion_t, ">", "</a>", &ptr);
 			GetOneField(persion_t, "class=\"focus_num\"><b>", "</b>", Persion.focus_num);
 			
 			GetOneField(persion_t, "class=\"fans_num\"><b>", "</b>", Persion.fans_num);
-			ptr = Persion.nick_name;
+			char* ptr = Persion.nick_name;
 			GetOneField(persion_t, "class=\"person-nick-name\"><span>", "</span>", &ptr);
 			ptr = Persion.address;	
 			GetOneField(persion_t, "class=\"person-detail\"> ", "</dd>", &ptr);
 			ptr = Persion.person_sign; 	
 			GetOneField(persion_t, "<dd class=\"person-sign\">", "</dd>", &ptr);	
 			
-			char Post_field[1024] = {"params=%7B%22method%22%3A%22getContact%22%2C%22username%22%3A%22"};
-		
-			strcat(Post_field,Persion.true_name);
-			strcat(Post_field,"%22%7D");
-			ptr = wr_buf2;
-			get_content((char*)URL_POST,&ptr,1,Post_field);
-		
-			persion_t = wr_buf2;	
-			if(strlen(wr_buf2)>0)
+			char* persion_contact = strstr(persion_t,"class=\"mod_contact\">");	
+			if(persion_contact != NULL)
 			{
-			ptr = Persion.phone;
-			GetOneField(persion_t, "\"submobile\":\"", "\"", &ptr);
-			
-			ptr = Persion.Email;  	
-			GetOneField(persion_t, "\"pubemail\":\"", "\"", &ptr);
-			
-			if(strstr(wr_buf2,"type\":70"))
-			{
+			ptr = Persion.Email;
+			GetOneField(persion_t, "class=\"email\">", "</span>", &ptr);
+			ptr = Persion.phone;  	
+			GetOneField(persion_t, "class=\"modile\">", "</span>", &ptr);
 			ptr = Persion.QQ; 	
-			GetOneField(persion_t, "\"value\":\"", "\",\"type\":70", &ptr);
-			}
-			
-			if(strstr(persion_t,"type\":110"))
-			{
+			GetOneField(persion_t, "class=\"qq\">", "</span>", &ptr);
 			ptr = Persion.weixin;	
-			GetOneField(persion_t, "\"value\":\"", "\",\"type\":110", &ptr);	
-			}
+			GetOneField(persion_t, "class=\"weixin\">", "</span>", &ptr);	
 			}
 			//Persion.PrintInfo();	
 			Surl_queue.Save_Persioninfo(Persion);	
@@ -397,12 +354,6 @@ void get_personinfo(char* url, int threadid)
 	}	   
 	
 	
-	if(wr_buf2 != NULL)
-	{
-		free(wr_buf2);
-		wr_buf2 = NULL;
-	}
-
 	char * username_url = strstr(wr_buf,"class=\"mod_relations\"");
 	if(username_url != NULL)
 	{
@@ -426,24 +377,24 @@ void get_personinfo(char* url, int threadid)
 				struct surl URL;
 				URL.url = (string)url; 		
 				URL.deep_level = 1;
-				//if(Our_queue.find(URL) == -1)
-				if(!Bloom_F_URL._IsIn(URL.url))
+				if(Our_queue.find(URL) == -1)
+				//if(!Bloom_F_URL._IsIn(URL.url))
 				{
 					if(wr_buf != NULL)
 					{
 						free(wr_buf);
 						wr_buf = NULL;
 					}
-					//Our_queue.Add(URL);			
+					Our_queue.Add(URL);			
 		
-					//if(Our_queue.size() > 102400 )
-					//	Our_queue.pop();
-					Bloom_F_URL._Set(URL.url);
-					//if(threadid != 3)
+					if(Our_queue.size() > 102400 )
+						Our_queue.pop();
+					//Bloom_F_URL._Set(URL.url);
+					if(threadid != 3)
 						get_personinfo(url, threadid);
-					/*else
+					else
 						Surl_queue.Save(URL,threadid);
-					*/	
+						
 				}
 				
 			}
@@ -454,6 +405,8 @@ void get_personinfo(char* url, int threadid)
 	if(wr_buf != NULL)
 		free(wr_buf);
 	
+	if(curl != NULL)	
+  		curl_easy_cleanup( curl );  
 	
 }
  
@@ -494,12 +447,12 @@ void *Curl_Config(void* param)
 	while(1){	
 	
 	while(1){
-		/*if(all_url > 100000)
+		if(all_url > 100000)
 		{
     		endTime = clock();  
     		cout << "Totle Time : " <<(double)(endTime - startTime) / CLOCKS_PER_SEC << "s" << endl;  
 		exit(1);
-		}*/
+		}
 		Surl_queue.update_queue();			
 	
 
@@ -556,8 +509,6 @@ void *Curl_Config(void* param)
   	char* ptr = wr_buf; 
   	curl_easy_setopt( curl, CURLOPT_WRITEDATA, &ptr );    
   	curl_easy_setopt( curl, CURLOPT_WRITEFUNCTION, write_data );    
-  	
-	//curl_easy_setopt( curl, CURLOPT_PROXY, "125.120.10.178:808" );    
  
 	curl_easy_setopt( curl, CURLOPT_USERAGENT, "Mozilla/5.0");  
   	/* Allow curl to perform the action */    
@@ -654,6 +605,7 @@ void *Curl_Config(void* param)
         
      }
   }
+  
   
  
   curl_ret = curl_global_init(CURL_GLOBAL_SSL);

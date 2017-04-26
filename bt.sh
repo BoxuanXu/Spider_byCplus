@@ -8,5 +8,5 @@ then
     date
 #else
     #echo "不包含"
-    /src/spider/spider_mysql -r 'http://blog.csdn.net/([^/]+).*article','http://blog.csdn.net/([^/]+).*detail' 
+    nohup ./run.sh &
 fi

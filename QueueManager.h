@@ -107,7 +107,7 @@ public:
 		if(url_queue.size() < 2000)
 		{
 			char szSQL[100] = {0};
-			sprintf(szSQL, "select * from Quene category limit 2000;");
+			sprintf(szSQL, "select * from Quene category limit 1000;");
 			con->SelectQuery(szSQL);
 			
 			char sz_dSQL[100] = {0};

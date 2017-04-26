@@ -1,0 +1,674 @@
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51811770,0
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+ok:,,,
+allurl:12,newurl: http://blog.csdn.net/blogdevteam/article/details/70546865, level: 1
+allurl:13,newurl: http://blog.csdn.net/turingbooks/article/details/70237883, level: 1
+allurl:24,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/3125413, level: 1
+allurl:47,newurl: http://blog.csdn.net/column/details/15328.html, level: 1
+allurl:49,newurl: http://blog.csdn.net/column/details/14984.html, level: 1
+allurl:51,newurl: http://blog.csdn.net/column/details/14042.html, level: 1
+allurl:53,newurl: http://blog.csdn.net/column/details/12920.html, level: 1
+allurl:55,newurl: http://blog.csdn.net/column/details/distributedsystem.html, level: 1
+allurl:57,newurl: http://blog.csdn.net/column/details/mysqlcentury.html, level: 1
+allurl:59,newurl: http://blog.csdn.net/column/details/androidcentury.html, level: 1
+allurl:61,newurl: http://blog.csdn.net/column/details/java1989.html, level: 1
+allurl:63,newurl: http://blog.csdn.net/column/details/sunnycentury.html, level: 1
+allurl:65,newurl: http://blog.csdn.net/column/details/angularjs-sunny1989.html, level: 1
+Thread-3 begin URL: http://my.csdn.net/foruok,25
+Thread-3 begin URL: http://my.csdn.net/v_july_v,24
+Thread-3 begin URL: http://my.csdn.net/hejingyuan6,23
+Thread-3 begin URL: http://my.csdn.net/eson_15,22
+Thread-3 begin URL: http://my.csdn.net/wangpeng047,21
+Thread-3 begin URL: http://my.csdn.net/weikaic,20
+Thread-3 begin URL: http://my.csdn.net/a542155263,19
+Thread-3 begin URL: http://my.csdn.net/cx8122389,18
+Thread-3 begin URL: http://my.csdn.net/linlin_d,17
+Thread-3 begin URL: http://my.csdn.net/opencvopencv,16
+Thread-2 begin URL: http://my.csdn.net/lycwhite,15
+Thread-7 begin URL: http://my.csdn.net/qq_24369113,14
+Thread-6 begin URL: http://my.csdn.net/liu_z_c,13
+Thread-8 begin URL: http://blog.csdn.net/blogdevteam/article/details/70546865,12
+Thread-4 begin URL: http://blog.csdn.net/turingbooks/article/details/70237883,11
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/category/3125413,10
+Thread-1 begin URL: http://blog.csdn.net/column/details/15328.html,9
+Thread-0 begin URL: http://blog.csdn.net/column/details/14984.html,8
+Thread-5 begin URL: http://blog.csdn.net/column/details/14042.html,7
+Thread-3 begin URL: http://blog.csdn.net/column/details/12920.html,6
+allurl:469,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50109045, level: 1
+allurl:470,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51829161, level: 1
+allurl:471,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51923577, level: 1
+allurl:472,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51923647, level: 1
+allurl:473,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51923674, level: 1
+allurl:474,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51923704, level: 1
+allurl:475,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51965478, level: 1
+allurl:476,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51998756, level: 1
+allurl:477,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51998884, level: 1
+allurl:478,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51999415, level: 1
+allurl:479,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52003175, level: 1
+allurl:480,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52003289, level: 1
+allurl:481,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52047343, level: 1
+allurl:482,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52669099, level: 1
+allurl:483,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/53892722, level: 1
+allurl:484,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/53894468, level: 1
+allurl:485,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/53898625, level: 1
+allurl:486,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/53899211, level: 1
+allurl:487,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/53932030, level: 1
+allurl:543,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54233648, level: 1
+Thread-5 begin URL: http://blog.csdn.net/column/details/distributedsystem.html,24
+allurl:566,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/70195698, level: 1
+allurl:567,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/70167987, level: 1
+allurl:568,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/70168015, level: 1
+allurl:569,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/70168313, level: 1
+allurl:570,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/70182416, level: 1
+allurl:571,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/70185022, level: 1
+allurl:572,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/70187450, level: 1
+allurl:573,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/70194015, level: 1
+allurl:574,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/69384808, level: 1
+allurl:575,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/69387911, level: 1
+allurl:576,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/69389116, level: 1
+allurl:577,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/69389316, level: 1
+allurl:578,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/69390312, level: 1
+allurl:768,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/69391188, level: 1
+allurl:769,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/69396305, level: 1
+allurl:770,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/69396401, level: 1
+allurl:771,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/69396507, level: 1
+allurl:772,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/69396537, level: 1
+allurl:773,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/67640579, level: 1
+allurl:774,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/62039102, level: 1
+Thread-0 begin URL: http://blog.csdn.net/column/details/mysqlcentury.html,43
+allurl:812,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54233737, level: 1
+allurl:813,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54233830, level: 1
+allurl:814,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54455106, level: 1
+allurl:815,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54457075, level: 1
+allurl:816,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54646578, level: 1
+allurl:817,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54646711, level: 1
+allurl:818,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54646752, level: 1
+allurl:819,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/61913430, level: 1
+allurl:820,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/61913708, level: 1
+allurl:821,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/61914129, level: 1
+allurl:822,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/61914317, level: 1
+allurl:823,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/61914555, level: 1
+allurl:824,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/61914724, level: 1
+allurl:825,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/61917497, level: 1
+allurl:826,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/61917917, level: 1
+allurl:827,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/61918465, level: 1
+allurl:828,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/61918721, level: 1
+allurl:829,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/61920219, level: 1
+Thread-1 begin URL: http://blog.csdn.net/column/details/androidcentury.html,61
+Thread-9 begin URL: http://blog.csdn.net/column/details/java1989.html,60
+allurl:885,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52556919, level: 1
+allurl:886,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52554746, level: 1
+allurl:887,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52060981, level: 1
+allurl:888,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52102086, level: 1
+allurl:889,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52102179, level: 1
+allurl:890,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52103965, level: 1
+allurl:891,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52106623, level: 1
+allurl:892,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52143001, level: 1
+allurl:893,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52143068, level: 1
+allurl:894,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52143212, level: 1
+allurl:895,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52166531, level: 1
+allurl:896,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52166564, level: 1
+allurl:897,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52169793, level: 1
+allurl:898,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52372937, level: 1
+allurl:899,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52381578, level: 1
+allurl:900,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52386422, level: 1
+allurl:901,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52516914, level: 1
+allurl:902,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52414658, level: 1
+allurl:903,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52430598, level: 1
+allurl:904,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52463257, level: 1
+Thread-3 begin URL: http://blog.csdn.net/column/details/sunnycentury.html,79
+allurl:963,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50887190, level: 1
+allurl:964,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50883630, level: 1
+allurl:965,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50804509, level: 1
+allurl:966,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50804334, level: 1
+allurl:967,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/46385983, level: 1
+allurl:968,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/46339931, level: 1
+allurl:969,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/46340985, level: 1
+allurl:970,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/46277847, level: 1
+allurl:971,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/46277807, level: 1
+allurl:972,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45966247, level: 1
+allurl:973,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45965819, level: 1
+allurl:974,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45965783, level: 1
+allurl:975,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45965753, level: 1
+allurl:976,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45887911, level: 1
+allurl:977,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45874497, level: 1
+allurl:978,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45840653, level: 1
+allurl:979,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45840371, level: 1
+allurl:980,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45746027, level: 1
+allurl:981,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45745893, level: 1
+allurl:982,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45648087, level: 1
+Thread-5 begin URL: http://blog.csdn.net/column/details/angularjs-sunny1989.html,98
+allurl:1038,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51818451, level: 1
+allurl:1039,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51811816, level: 1
+allurl:1040,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51811802, level: 1
+allurl:1041,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51811770, level: 1
+allurl:1042,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51811727, level: 1
+allurl:1043,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51792272, level: 1
+allurl:1044,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51792427, level: 1
+allurl:1045,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50109991, level: 1
+allurl:1046,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/48391673, level: 1
+allurl:1047,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/48391627, level: 1
+allurl:1048,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/48391483, level: 1
+allurl:1049,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/48391357, level: 1
+allurl:1050,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/46839045, level: 1
+allurl:1051,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/46835097, level: 1
+allurl:1052,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/46500107, level: 1
+allurl:1053,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45115615, level: 1
+allurl:1054,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/46494489, level: 1
+allurl:1055,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45562845, level: 1
+allurl:1056,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45508939, level: 1
+allurl:1057,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45269439, level: 1
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50109045,117
+allurl:1116,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/47447805, level: 1
+allurl:1145,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51082801, level: 1
+allurl:1146,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51647266, level: 1
+allurl:1147,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52004454, level: 1
+allurl:1148,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52005507, level: 1
+allurl:1149,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52059322, level: 1
+allurl:1150,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52142873, level: 1
+allurl:1151,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52366781, level: 1
+allurl:1154,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52684148, level: 1
+allurl:1155,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52687518, level: 1
+allurl:1156,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52687555, level: 1
+allurl:1157,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52756999, level: 1
+allurl:1158,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52760308, level: 1
+allurl:1159,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52823513, level: 1
+allurl:1160,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54021208, level: 1
+allurl:1161,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54022561, level: 1
+allurl:1162,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54138817, level: 1
+allurl:1163,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/54984745, level: 1
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51829161,116
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51923577,115
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51923647,114
+allurl:1252,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50506400, level: 1
+allurl:1253,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51444018, level: 1
+allurl:1254,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51793314, level: 1
+allurl:1255,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51818410, level: 1
+allurl:1256,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50865796, level: 1
+allurl:1257,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50450259, level: 1
+allurl:1258,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50401501, level: 1
+allurl:1259,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50380918, level: 1
+allurl:1260,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50380668, level: 1
+allurl:1261,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/48391719, level: 1
+allurl:1262,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/47706159, level: 1
+allurl:1263,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/47703301, level: 1
+allurl:1264,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/47447623, level: 1
+allurl:1265,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/47170147, level: 1
+allurl:1266,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/47132389, level: 1
+allurl:1267,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/47090367, level: 1
+allurl:1268,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/47090321, level: 1
+allurl:1269,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/47090285, level: 1
+allurl:1270,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/47058479, level: 1
+allurl:1271,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/47058457, level: 1
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51923674,113
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51923704,112
+allurl:1358,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51685320, level: 1
+allurl:1359,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51510884, level: 1
+allurl:1360,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51479136, level: 1
+allurl:1361,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50973771, level: 1
+allurl:1362,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50804624, level: 1
+allurl:1363,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50766802, level: 1
+allurl:1364,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50740034, level: 1
+allurl:1365,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50740003, level: 1
+allurl:1366,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50591928, level: 1
+allurl:1367,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50549533, level: 1
+allurl:1368,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50535580, level: 1
+allurl:1369,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50529671, level: 1
+allurl:1370,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50519808, level: 1
+allurl:1371,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50513058, level: 1
+allurl:1372,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50196783, level: 1
+allurl:1373,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50193301, level: 1
+allurl:1374,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50188605, level: 1
+allurl:1375,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50475429, level: 1
+allurl:1376,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/48260987, level: 1
+allurl:1377,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/48339631, level: 1
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51965478,111
+allurl:1437,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/5991195, level: 1
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51998756,110
+allurl:1602,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51670462, level: 1
+allurl:1603,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52003467, level: 1
+allurl:1604,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/53894496, level: 1
+allurl:1605,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51959167, level: 1
+allurl:1606,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51944749, level: 1
+allurl:1607,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50903237, level: 1
+allurl:1608,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51644645, level: 1
+allurl:1609,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51647145, level: 1
+allurl:1610,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51647191, level: 1
+allurl:1611,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51647382, level: 1
+allurl:1612,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51654826, level: 1
+allurl:1613,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51670610, level: 1
+allurl:1614,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51777601, level: 1
+allurl:1615,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50774291, level: 1
+allurl:1616,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50540430, level: 1
+allurl:1617,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50517501, level: 1
+allurl:1618,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50403782, level: 1
+allurl:1619,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50125833, level: 1
+allurl:1620,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50015943, level: 1
+allurl:1621,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50010789, level: 1
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51998884,109
+allurl:1682,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/3090153, level: 1
+allurl:1684,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/44920023, level: 1
+allurl:1686,newurl: http://blog.csdn.net/dandanzmc/article/details/27355565, level: 1
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51999415,108
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52003175,107
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52003289,106
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52047343,105
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52669099,104
+ok:,,,
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/53892722,103
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/53894468,102
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/53898625,101
+ok:,,,
+allurl:3018,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45722111, level: 1
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/53899211,100
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/53932030,99
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/70195698,181
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/70167987,180
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/70168015,179
+allurl:3855,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52777383?locationNum=3&amp;fps=1, level: 1
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/70168313,178
+allurl:4022,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/6336602, level: 1
+allurl:4046,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/6788536, level: 1
+allurl:4048,newurl: http://blog.csdn.net/eson_15/article/details/51090040, level: 1
+allurl:4050,newurl: http://blog.csdn.net/hejingyuan6/article/details/44279239, level: 1
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/70182416,177
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/70185022,176
+allurl:4368,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51958618, level: 1
+allurl:4369,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/51958714, level: 1
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/70187450,175
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/70194015,174
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/69384808,173
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/69387911,172
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/69389116,171
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/69389316,170
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/69390312,169
+allurl:5537,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/52888430, level: 1
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/69391188,168
+allurl:5711,newurl: http://blog.csdn.net/largetalk/article/details/8449782, level: 1
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/69396305,167
+allurl:5879,newurl: http://blog.csdn.net/pipisorry/article/details/37742423, level: 1
+allurl:5882,newurl: http://blog.csdn.net/daniel_ustc/article/details/9714163, level: 1
+ok:,,,
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/69396401,166
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/69396507,165
+ok:,,,
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/69396537,164
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/67640579,163
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/62039102,162
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54233648,161
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54233737,160
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54233830,159
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54455106,158
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54457075,157
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54646578,156
+allurl:7713,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/6670597, level: 1
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54646711,155
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54646752,154
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/61913430,153
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/61913708,152
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/61914129,151
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/61914317,150
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/61914555,149
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/61914724,148
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/61917497,147
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/61917917,146
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/61918465,145
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/61918721,144
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/61920219,143
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52556919,142
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52554746,141
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52060981,140
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52102086,139
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52102179,138
+ok:,,,
+ok:,,,
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52103965,137
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52106623,136
+allurl:11045,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/3130685, level: 1
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52143001,135
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52143068,134
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52143212,133
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52166531,132
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52166564,131
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52169793,130
+allurl:12043,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/6210638, level: 1
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52372937,129
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52381578,128
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52386422,127
+ok:15321300629,940414956@qq.com,940414956,
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52516914,126
+ok:,,,
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52414658,125
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52430598,124
+allurl:13045,newurl: http://blog.csdn.net/wuxinyicomeon/article/details/5996675, level: 1
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52463257,123
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50887190,122
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50883630,121
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50804509,120
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50804334,119
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/46385983,118
+allurl:14126,newurl: http://blog.csdn.net/seu_calvin/article/details/52370068, level: 1
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/46339931,117
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/46340985,116
+allurl:14377,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/3202653, level: 1
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/46277847,115
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/46277807,114
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45966247,113
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45965819,112
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45965783,111
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45965753,110
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45887911,109
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45874497,108
+allurl:15710,newurl: http://blog.csdn.net/whuqin/article/details/8442919/, level: 1
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45840653,107
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45840371,106
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45746027,105
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45745893,104
+ok:,chenssy995812509@163.com,122448894,chen_ssy
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45648087,103
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51818451,102
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51811816,101
+ok:,,,
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51811802,100
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51811770,99
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51811727,116
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51792272,115
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51792427,114
+allurl:17714,newurl: http://blog.csdn.net/fancylovejava/article/details/45787729/, level: 1
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50109991,113
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/48391673,112
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/48391627,111
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/48391483,110
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/48391357,109
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/46839045,108
+allurl:18726,newurl: http://blog.csdn.net/nmgchfzhzhg/article/details/8077133, level: 1
+allurl:18727,newurl: http://blog.csdn.net/jkkjklmn/article/details/7349517, level: 1
+allurl:18728,newurl: http://blog.csdn.net/twoicewoo/article/details/7384398, level: 1
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/46835097,107
+allurl:19070,newurl: http://blog.csdn.net/luosijin123/article/details/4792181, level: 1
+allurl:19075,newurl: http://blog.csdn.net/zimo2013/article/details/16916279, level: 1
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/46500107,106
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45115615,105
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/46494489,104
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45562845,103
+allurl:19574,newurl: http://blog.csdn.net/huozhicheng/article/details/6575960, level: 1
+allurl:19583,newurl: http://blog.csdn.net/lxqluo/article/details/8020232, level: 1
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45508939,102
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45269439,101
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/47447805,100
+allurl:20090,newurl: http://blog.csdn.net/chszs/article/details/12585791, level: 1
+allurl:20093,newurl: http://blog.csdn.net/lijian820708/article/details/7191262, level: 1
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51082801,99
+ok:,,,
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51647266,108
+ok:,,,
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52004454,107
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52005507,106
+allurl:20765,newurl: http://blog.csdn.net/chindroid/article/details/7740949, level: 1
+allurl:20766,newurl: http://blog.csdn.net/yudajun/article/details/7939552, level: 1
+allurl:20768,newurl: http://blog.csdn.net/xusongsong520/article/details/8009696, level: 1
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52059322,105
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52142873,104
+allurl:21101,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/45175837, level: 1
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52366781,103
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52684148,102
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52687518,101
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52687555,100
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52756999,99
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52760308,102
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52823513,101
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54021208,100
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54022561,99
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54138817,98
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/54984745,97
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50506400,96
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51444018,95
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51793314,94
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51818410,93
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50865796,92
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50450259,91
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50401501,90
+allurl:24104,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/3220641, level: 1
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50380918,90
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50380668,89
+ok:,,,
+ok:,,,
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/48391719,88
+allurl:24604,newurl: http://blog.csdn.net/lilinoscar/article/details/44459571, level: 1
+allurl:24629,newurl: http://blog.csdn.net/wangchangshuai0010/article/details/12714575, level: 1
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/47706159,89
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/47703301,88
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/47447623,87
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/47170147,86
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/47132389,85
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/47090367,84
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/47090321,83
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/47090285,82
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/47058479,81
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/47058457,80
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51685320,79
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51510884,78
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51479136,77
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50973771,76
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50804624,75
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50766802,74
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50740034,73
+allurl:27433,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/5795559, level: 1
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50740003,73
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50591928,72
+ok:,,,
+ok:,,,
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50549533,71
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50535580,70
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50529671,69
+allurl:28271,newurl: http://blog.csdn.net/chenssy/article/details/12858267, level: 1
+allurl:28273,newurl: http://blog.csdn.net/xw13106209/article/details/6923556, level: 1
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50519808,70
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50513058,69
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50196783,68
+allurl:28776,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50519770, level: 1
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50193301,68
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50188605,67
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50475429,66
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/48260987,65
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/48339631,64
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/category/5991195,63
+allurl:29778,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/6053788, level: 1
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51670462,63
+allurl:29950,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50158499, level: 1
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52003467,63
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/53894496,62
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51959167,61
+allurl:30452,newurl: http://blog.csdn.net/zccst/article/details/6185856, level: 1
+allurl:30455,newurl: http://blog.csdn.net/happyflyingave/article/details/25415413, level: 1
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51944749,62
+allurl:30626,newurl: http://blog.csdn.net/sunhuaqiang1/article/details/50193301#t2, level: 1
+allurl:30629,newurl: http://blog.csdn.net/smok56888/article/details/20628161, level: 1
+allurl:30633,newurl: http://blog.csdn.net/cyzero/article/details/42584193, level: 1
+allurl:30634,newurl: http://blog.csdn.net/zuowensheng/article/details/7800308, level: 1
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50903237,65
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51644645,64
+allurl:30970,newurl: http://blog.csdn.net/sunhuaqiang1/article/category/5897079, level: 1
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51647145,64
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51647191,63
+ok:,,,
+Thread-9 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51647382,62
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51654826,61
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51670610,60
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51777601,59
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50774291,58
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50540430,57
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50517501,56
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50403782,55
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50125833,54
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50015943,53
+Thread-7 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/50010789,52
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/category/3090153,51
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/44920023,50
+Thread-9 begin URL: http://blog.csdn.net/dandanzmc/article/details/27355565,49
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/45722111,48
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52777383?locationNum=3&amp;fps=1,47
+Thread-3 begin URL: http://blog.csdn.net/sunhuaqiang1/article/category/6336602,46
+Thread-7 begin URL: http://blog.csdn.net/eson_15/article/details/51090040,45
+allurl:34455,newurl: http://blog.csdn.net/g_beginner/article/details/6791106, level: 1
+allurl:34457,newurl: http://blog.csdn.net/wuwenxiang91322/article/details/11070513, level: 1
+Thread-6 begin URL: http://blog.csdn.net/hejingyuan6/article/details/44279239,46
+Thread-0 begin URL: http://blog.csdn.net/sunhuaqiang1/article/category/6788536,45
+Thread-5 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51958618,44
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/51958714,43
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/details/52888430,42
+allurl:35145,newurl: http://blog.csdn.net/eson_15/article/category/6228418, level: 1
+allurl:35146,newurl: http://blog.csdn.net/eson_15/article/category/6183972, level: 1
+allurl:35168,newurl: http://blog.csdn.net/column/details/spring-mvc.html, level: 1
+allurl:35170,newurl: http://blog.csdn.net/column/details/smybatis.html, level: 1
+allurl:35172,newurl: http://blog.csdn.net/column/details/bingfa.html, level: 1
+allurl:35174,newurl: http://blog.csdn.net/column/details/str2hiberspring.html, level: 1
+allurl:35176,newurl: http://blog.csdn.net/column/details/des-pattern.html, level: 1
+allurl:35178,newurl: http://blog.csdn.net/column/details/servletandjsp.html, level: 1
+allurl:35180,newurl: http://blog.csdn.net/column/details/datastructure2.html, level: 1
+allurl:35182,newurl: http://blog.csdn.net/column/details/collectionframework.html, level: 1
+Thread-7 begin URL: http://blog.csdn.net/largetalk/article/details/8449782,51
+ok:,,,
+Thread-3 begin URL: http://blog.csdn.net/pipisorry/article/details/37742423,50
+Thread-5 begin URL: http://blog.csdn.net/daniel_ustc/article/details/9714163,49
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/category/6670597,48
+Thread-1 begin URL: http://blog.csdn.net/sunhuaqiang1/article/category/3130685,47
+allurl:35968,newurl: http://blog.csdn.net/hejingyuan6/article/category/2134385, level: 1
+allurl:35969,newurl: http://blog.csdn.net/hejingyuan6/article/category/5590133, level: 1
+allurl:35988,newurl: http://blog.csdn.net/column/details/java-thread-.html, level: 1
+allurl:35990,newurl: http://blog.csdn.net/column/details/ruanjiangongcheng.html, level: 1
+allurl:35992,newurl: http://blog.csdn.net/column/details/sjms.html, level: 1
+allurl:35994,newurl: http://blog.csdn.net/column/details/ksxt.html, level: 1
+Thread-6 begin URL: http://blog.csdn.net/sunhuaqiang1/article/category/6210638,52
+Thread-0 begin URL: http://blog.csdn.net/wuxinyicomeon/article/details/5996675,51
+Thread-6 begin URL: http://blog.csdn.net/seu_calvin/article/details/52370068,50
+Thread-2 begin URL: http://blog.csdn.net/sunhuaqiang1/article/category/3202653,49
+ok:,,,
+Thread-1 begin URL: http://blog.csdn.net/whuqin/article/details/8442919/,48
+Thread-2 begin URL: http://blog.csdn.net/fancylovejava/article/details/45787729/,47
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+allurl:37024,newurl: http://blog.csdn.net/pipisorry/article/category/2627547, level: 1
+allurl:37033,newurl: http://blog.csdn.net/ikerpeng/article/details/20381009, level: 1
+allurl:37052,newurl: http://blog.csdn.net/pipisorry/article/details/40005163, level: 1
+allurl:37053,newurl: http://blog.csdn.net/pipisorry/article/details/37766161, level: 1
+ok:,,,
+allurl:37142,newurl: http://blog.csdn.net/column/details/13007.html, level: 1
+allurl:37144,newurl: http://blog.csdn.net/column/details/py-qt.html, level: 1
+allurl:37146,newurl: http://blog.csdn.net/column/details/django-tutorial.html, level: 1
+allurl:37148,newurl: http://blog.csdn.net/column/details/githubcvs.html, level: 1
+allurl:37150,newurl: http://blog.csdn.net/column/details/topic-model.html, level: 1
+allurl:37152,newurl: http://blog.csdn.net/column/details/machine-learning1.html, level: 1
+Thread-3 begin URL: http://blog.csdn.net/nmgchfzhzhg/article/details/8077133,72
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+allurl:37206,newurl: http://blog.csdn.net/nmgchfzhzhg/article/category/714650, level: 1
+allurl:37207,newurl: http://blog.csdn.net/nmgchfzhzhg/article/category/714651, level: 1
+allurl:37279,newurl: http://blog.csdn.net/broadview2006/article/details/70257477, level: 1
+allurl:37280,newurl: http://blog.csdn.net/carson_ho/article/details/70267574, level: 1
+allurl:37281,newurl: http://blog.csdn.net/blogdevteam/article/details/70305418, level: 1
+allurl:37282,newurl: http://blog.csdn.net/guolin_blog/article/details/53939176, level: 1
+allurl:37283,newurl: http://blog.csdn.net/mindfloating/article/details/70199199, level: 1
+allurl:37284,newurl: http://blog.csdn.net/wireless_com/article/details/70207298, level: 1
+Thread-3 begin URL: http://blog.csdn.net/jkkjklmn/article/details/7349517,94
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:15880261185,CTO@188.com,61087682,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,496155678@qq.com,496155678,
+ok:,,,
+allurl:37334,newurl: http://blog.csdn.net/junjieking/article/details/6925846, level: 1
+ok:,glzsk@qq.com,595070692,
+Thread-3 begin URL: http://blog.csdn.net/twoicewoo/article/details/7384398,109
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+allurl:37452,newurl: http://blog.csdn.net/twoicewoo/article/category/1069467, level: 1
+Thread-3 begin URL: http://blog.csdn.net/luosijin123/article/details/4792181,108
+ok:,ustcxie@gmail.com,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,marywangran@126.com,23870617,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+Thread-3 begin URL: http://blog.csdn.net/zimo2013/article/details/16916279,107
+ok:,,,
+ok:,,1245902155,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:15996552771,jiangqqlmj@163.com,781931404,781931404
+ok:18971326300,fansunion@qq.com,240370818,FansUnion
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+allurl:37677,newurl: http://blog.csdn.net/strawberry2013/article/category/1425928, level: 1
+allurl:37699,newurl: http://blog.csdn.net/column/details/zimo-android.html, level: 1
+allurl:37701,newurl: http://blog.csdn.net/column/details/javazimo.html, level: 1
+allurl:37703,newurl: http://blog.csdn.net/column/details/javawebzimo.html, level: 1
+allurl:37705,newurl: http://blog.csdn.net/column/details/androidzimo.html, level: 1
+Thread-3 begin URL: http://blog.csdn.net/huozhicheng/article/details/6575960,106
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+ok:,,,
+Thread-3 begin URL: http://blog.csdn.net/lxqluo/article/details/8020232,105
+ok:,,,
+ok:15875177061,82530662@qq.com,82530662,JiangHukeyke
