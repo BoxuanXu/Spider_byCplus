@@ -2,7 +2,9 @@
 
 #include"BitMap.h"
 #include"HashFun.h"
-
+#include <algorithm>
+#include <ctype.h>
+#include <string>
 template<class T>
 struct __HashFun1          //5ÖÖ¹þÏ£º¯Êý¶ÔÓ¦µÄ·Âº¯Êý
 {
@@ -74,7 +76,10 @@ public:
 	void _Set(const K& key)
 	{
 		 pthread_mutex_lock( &pt_mutex_bloom );
-		_bitmap.Set(HashFun1()(key) % _capacity);
+		string S_r = (string)key;
+  	         if(typeid(K) == typeid(string))
+			transform(S_r.begin(),S_r.end(), S_r.begin(), ::tolower);  	 
+		_bitmap.Set(HashFun1()(S_r) % _capacity);
 		/*_bitmap.Set(HashFun2()(key) % _capacity);
 		_bitmap.Set(HashFun3()(key) % _capacity);
 		_bitmap.Set(HashFun4()(key) % _capacity);
@@ -82,10 +87,37 @@ public:
 		pthread_mutex_unlock( &pt_mutex_bloom );
 	}
 
+	void _add_datafromsql()
+	{
+		CEncapMysql *con2;	
+		con2 = new CEncapMysql;		
+    		con2->Connect("127.0.0.1", "root", "676892","Spider_Quene");
+
+		char szSQL[100] = {0};
+		sprintf(szSQL, "select * from Persioninfo;");
+		con2->SelectQuery(szSQL);
+			
+					
+		char sz_dSQL[100] = {0};
+		int i=0;
+		while (char** r = con2->FetchRow())
+		{
+				memset(sz_dSQL,0,100);
+				sprintf(sz_dSQL,"http://my.csdn.net/%s",r[2]);		
+				_bitmap.Set(HashFun1()(sz_dSQL) % _capacity);
+				++i;
+		}		
+		delete con2;
+	}	
+
 	bool _IsIn(const K& key)
 	{
 		 pthread_mutex_lock( &pt_mutex_bloom );
-		bool gg = _bitmap.Get(HashFun1()(key) % _capacity);
+		string S_r = (string)key;
+  		  if(typeid(K) == typeid(string))
+			transform(S_r.begin(),S_r.end(), S_r.begin(), ::tolower);  	 
+
+		bool gg = _bitmap.Get(HashFun1()(S_r) % _capacity);
 		
 		if (!gg)
 		{
@@ -110,3 +142,10 @@ private:
 	size_t _capacity;
 	pthread_mutex_t pt_mutex_bloom;
 };
+//¿¿¿¿¿¿,csdn¿url¿¿¿¿¿¿¿
+char *strupr(char *str){
+    char *orign=str;
+    for (; *str!='\0 '; str++)
+        *str = tolower(*str);
+    return orign;
+}

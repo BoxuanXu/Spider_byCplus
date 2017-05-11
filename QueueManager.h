@@ -139,7 +139,7 @@ public:
 		char szSQL[1024 * 10] = {0};
 		if((strlen(P.nick_name) + strlen(P.address) + strlen(P.person_sign)) > 10000)
 			return;
-        	sprintf(szSQL, "insert into Persioninfo values(NULL,'%s','%s','%s','%s','%s',%d,'%s',%d, %d, '%s','%s','%s','%s');", P.nick_name, P.true_name, P.sex, P.occupation, P.address,P.age,P.person_sign,P.focus_num,P.fans_num,P.Email,P.phone,P.QQ,P.weixin);
+        	sprintf(szSQL, "insert into Persioninfo values(NULL,'%s','%s','%s','%s','%s',%d,'%s',%d, %d, '%s','%s','%s','%s',now());", P.nick_name, P.true_name, P.sex, P.occupation, P.address,P.age,P.person_sign,P.focus_num,P.fans_num,P.Email,P.phone,P.QQ,P.weixin);
         	if( con->ModifyQuery(szSQL))
         	{
                         cout<<"insert false!"<<endl;

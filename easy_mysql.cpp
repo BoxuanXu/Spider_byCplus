@@ -49,6 +49,9 @@ int CEncapMysql::Connect(const char* szDbIp, const char* szUser,
         return -1;
     }
     printf("[mysql] conn to %s [user:%s] succ!\r\n", szDbIp, szUser);
+    //中文编码
+    if(!mysql_set_character_set(&m_connection, "utf8"));
+	printf("character set error");
     //设置连接标志为 true
     SetConnected(true);
     return 0;

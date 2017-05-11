@@ -21,7 +21,7 @@
 #include <time.h>
 using namespace std;  
 #define MAX_BUF (1024 * 1024 * 10)
-#define MAX_THREAD 10
+#define MAX_THREAD 1
 
 const char URL_POST[100] = {"http://my.csdn.net/service/main/uc"};
 
@@ -30,7 +30,7 @@ const char URL_POST[100] = {"http://my.csdn.net/service/main/uc"};
 extern QueueManager Surl_queue;
 extern QueueManager Our_queue;
 
-Bloom_Filter<string> Bloom_F_URL(312500);
+Bloom_Filter<string> Bloom_F_URL(31250000);
 
 map<int , surl> thread_url;
 
@@ -49,8 +49,9 @@ int all_url = 0;
 char* tag = "href=\"";
 
  clock_t startTime,endTime;	
-void get_personinfo(char* url, int threadid);
+void get_personinfo(const char* url, int threadid);
 
+int get_urlfrom_username(char** ptr_buf,int threadid,int flag = 1);
 long GetOneField(char *& sTotal, const char* nPosBegin,const char * sSpan,char ** sOut) {
 	char * sPos = NULL;
 	long nPosEnd = 0;
@@ -107,16 +108,17 @@ long GetOneField(char * sTotal, const char* nPosBegin,const char * sSpan,int& iO
 char* cut_url = NULL;
 size_t get_url_frompage(char* wr_buf, int threadid, ostream& fout)
 {
+	printf("%s\n",wr_buf);
 	char url[1024]={0};
 	char* pos = NULL;
 	char* pos_urlend = NULL;
 	char* p=NULL;
 	if(strlen(wr_buf) <= 0)
 		return 0;
-	
 	char my_csdn_url[100] = {0};
 	char* ptr = my_csdn_url;
 	GetOneField(wr_buf, "href=\"http://my.csdn.net/", "\"", &ptr);
+	
 	if(!strstr(my_csdn_url,"class") && strlen(my_csdn_url) > 2)
 	{
 		
@@ -141,8 +143,9 @@ size_t get_url_frompage(char* wr_buf, int threadid, ostream& fout)
 			
 		}
 	}
+	char* ptr_buf = wr_buf;
+	get_urlfrom_username(&ptr_buf,threadid, 0);
 		
-	//cout<<"ok1"<<endl;
 	pos = strstr(wr_buf, tag);
 	while(pos)
 	{
@@ -151,7 +154,6 @@ size_t get_url_frompage(char* wr_buf, int threadid, ostream& fout)
 		
 		if(pos_urlend)
 		{
-			//cout<<"ok2"<<endl;
 			struct surl child_url;
 			
 
@@ -237,7 +239,7 @@ size_t get_url_frompage(char* wr_buf, int threadid, ostream& fout)
                             }
 			    //regfree(&reg);
                         }
-                        
+                       	 
                         	
                         pos = pos_urlend;
 				
@@ -286,7 +288,7 @@ size_t write_data( void *buffer, size_t size, size_t nmemb, void *userp )
   return segsize;    
  }    
 
-int get_content(char* url,void* ptr,int flag = 0,char *postfields=NULL)
+int get_content(const char* url,void* ptr,int flag = 0,char *postfields=NULL)
 {
 	
   	CURL *curl;   
@@ -305,15 +307,16 @@ int get_content(char* url,void* ptr,int flag = 0,char *postfields=NULL)
  		curl_easy_setopt(curl,CURLOPT_POSTFIELDS,postfields); //post²ÎýOD
 		curl_easy_setopt(curl,CURLOPT_HEADER,1); //½«ÏӦͷÐϢºÍàÌһÆ´«¸øe_data  
 	        curl_easy_setopt(curl,CURLOPT_FOLLOWLOCATION,1); //ÉÖΪ·Ç,ÏӦͷÐϢlocation  
-		curl_easy_setopt(curl, CURLOPT_COOKIEFILE, "/src/spider/Spider_byCplus/curlposttest.cookie");  
 	}
-  	/* Tell curl that we'll receive data to the function write_data, and  
+	//curl_easy_setopt(curl, CURLOPT_COOKIEFILE, "/src/spider/Spider_byCplus/curlposttest.cookie");  
+  	curl_easy_setopt(curl, CURLOPT_COOKIE, "wxuin=1624387620; wxsid=rQEXBHhrelRRMiia; webwx_data_ticket=gSdHFiEDXbh8EnQxGmYsCdiG;");
+	/* Tell curl that we'll receive data to the function write_data, and  
    	* also provide it with a context pointer for our error return.  
    	*/    
   	curl_easy_setopt( curl, CURLOPT_WRITEDATA, ptr );    
   	curl_easy_setopt( curl, CURLOPT_WRITEFUNCTION, write_data );    
  
-	curl_easy_setopt( curl, CURLOPT_USERAGENT, "Mozilla/5.0");  
+	curl_easy_setopt( curl, CURLOPT_USERAGENT, "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36");  
   	/* Allow curl to perform the action */    
 	int ret = curl_easy_perform( curl );
 	
@@ -322,80 +325,147 @@ int get_content(char* url,void* ptr,int flag = 0,char *postfields=NULL)
 	return ret;
 }
 
-void get_personinfo(char* url, int threadid)
-{
-
-	Persioninfo Persion;
-	 
-
-
-	char*  wr_buf = NULL;
-	char* wr_buf2 = NULL;    
-	if(wr_buf == NULL)
-		wr_buf = (char*)malloc(MAX_BUF+1);
-	if(wr_buf2 == NULL)
-		wr_buf2 = (char*)malloc(MAX_BUF+1);
- 	
-	if(wr_buf == NULL)
-		return;
-	memset(wr_buf, 0 ,MAX_BUF+1);
-	memset(wr_buf2, 0 ,MAX_BUF+1);
-   	
-  	char* ptr = wr_buf; 
-
-	get_content(url,&ptr);
-	if(strlen(wr_buf) > 0)
+	int get_urlfrom_username(char** ptr_buf,int threadid,int flag)
 	{
-		//char* persion_t = strstr(wr_buf,"class=\"persional_property\"");
-		char* persion_t = strstr(wr_buf,"class=\"user_name\"");
-		if(persion_t != NULL)
+		char url[1024] = {0};
+		char * username_url = strstr(*ptr_buf,"class=\"mod_relations\"");
+		if(username_url != NULL)
 		{
-			
-			char* ptr = Persion.true_name;
-			GetOneField(persion_t, ">", "</a>", &ptr);
-			GetOneField(persion_t, "class=\"focus_num\"><b>", "</b>", Persion.focus_num);
-			
-			GetOneField(persion_t, "class=\"fans_num\"><b>", "</b>", Persion.fans_num);
-			ptr = Persion.nick_name;
-			GetOneField(persion_t, "class=\"person-nick-name\"><span>", "</span>", &ptr);
-			ptr = Persion.address;	
-			GetOneField(persion_t, "class=\"person-detail\"> ", "</dd>", &ptr);
-			ptr = Persion.person_sign; 	
-			GetOneField(persion_t, "<dd class=\"person-sign\">", "</dd>", &ptr);	
-			
-			char Post_field[1024] = {"params=%7B%22method%22%3A%22getContact%22%2C%22username%22%3A%22"};
+			char* username_id = strstr(username_url, "username=\'");
+			char username_id_c[1024*3] = {0};
+			if(username_id != NULL)
+			{
+			strncpy(username_id_c, username_id, (strlen(username_id)>3071)?3071:strlen(username_id));
+			char* username_id_cpy = username_id_c;
+			vector<string> mycsdn;
+			while(username_id_cpy != NULL)
+			{
+				username_id_cpy += 10;
+				char * username = strstr(username_id_cpy,"\'");
+				if(username != NULL && (username - username_id_cpy) > 2)
+				{
+						
+					memset(url,0,1024);
+					memcpy(url,"http://my.csdn.net/",21);
+					strncat(url,username_id_cpy, ((username - username_id_cpy) > 72)?72:(username - username_id_cpy));
+					mycsdn.push_back((string)url);	
+					//if(Our_queue.find(URL) == -1)
+					
+				}
+					username_id_cpy = strstr(username, "username=\'");
+			}
 		
-			strcat(Post_field,Persion.true_name);
-			strcat(Post_field,"%22%7D");
-			ptr = wr_buf2;
-			get_content((char*)URL_POST,&ptr,1,Post_field);
-		
-			persion_t = wr_buf2;	
-			if(strlen(wr_buf2)>0)
+			if(flag == 1 && *ptr_buf != NULL)
 			{
-			ptr = Persion.phone;
-			GetOneField(persion_t, "\"submobile\":\"", "\"", &ptr);
-			
-			ptr = Persion.Email;  	
-			GetOneField(persion_t, "\"pubemail\":\"", "\"", &ptr);
-			
-			if(strstr(wr_buf2,"type\":70"))
-			{
-			ptr = Persion.QQ; 	
-			GetOneField(persion_t, "\"value\":\"", "\",\"type\":70", &ptr);
+				free(*ptr_buf);
+				*ptr_buf = NULL;
 			}
+			for(size_t i = 0;i < mycsdn.size();++i)
+			{	
+					if(!Bloom_F_URL._IsIn(mycsdn[i].c_str()))
+					{
 			
-			if(strstr(persion_t,"type\":110"))
-			{
-			ptr = Persion.weixin;	
-			GetOneField(persion_t, "\"value\":\"", "\",\"type\":110", &ptr);	
+						Bloom_F_URL._Set(mycsdn[i].c_str());
+						
+						//get_personinfo(mycsdn[i].c_str(), threadid);
+						struct surl URL;
+						URL.url = mycsdn[i]; 		
+						URL.deep_level = 1;
+						Surl_queue.Save(URL,threadid);
+					}
 			}
 			}
-			//Persion.PrintInfo();	
-			Surl_queue.Save_Persioninfo(Persion);	
+			return 0;	
 		}
-	}	   
-	
+		else
+		{
+			return 1;
+		}
+	}
+
+	void get_personinfo(const char* url, int threadid)
+	{
+
+		Persioninfo Persion;
+		 
+
+
+		char*  wr_buf = NULL;
+		char* wr_buf2 = NULL;    
+		if(wr_buf == NULL)
+			wr_buf = (char*)malloc(MAX_BUF+1);
+		if(wr_buf2 == NULL)
+			wr_buf2 = (char*)malloc(MAX_BUF+1);
+		
+		if(wr_buf == NULL)
+			return;
+		memset(wr_buf, 0 ,MAX_BUF+1);
+		memset(wr_buf2, 0 ,MAX_BUF+1);
+		char* ptr = wr_buf; 
+
+		get_content(url,&ptr);
+		if(strlen(wr_buf) > 0)
+		{
+			//char* persion_t = strstr(wr_buf,"class=\"persional_property\"");
+			char* persion_t = strstr(wr_buf,"class=\"user_name\"");
+			if(persion_t != NULL)
+			{
+				
+				char* ptr = Persion.true_name;
+				GetOneField(persion_t, ">", "</a>", &ptr);
+				GetOneField(persion_t, "class=\"focus_num\"><b>", "</b>", Persion.focus_num);
+				
+				GetOneField(persion_t, "class=\"fans_num\"><b>", "</b>", Persion.fans_num);
+				ptr = Persion.nick_name;
+				GetOneField(persion_t, "class=\"person-nick-name\"><span>", "</span>", &ptr);
+				ptr = Persion.address;	
+				GetOneField(persion_t, "class=\"person-detail\"> ", "</dd>", &ptr);
+				ptr = Persion.person_sign; 	
+				GetOneField(persion_t, "<dd class=\"person-sign\">", "</dd>", &ptr);	
+				
+				char Post_field[1024] = {"params=%7B%22method%22%3A%22getContact%22%2C%22username%22%3A%22"};
+			
+				strcat(Post_field,Persion.true_name);
+				strcat(Post_field,"%22%7D");
+				ptr = wr_buf2;
+				get_content((char*)URL_POST,&ptr,1,Post_field);
+			
+				persion_t = wr_buf2;	
+				if(strlen(wr_buf2)>0)
+				{
+				ptr = Persion.phone;
+				GetOneField(persion_t, "\"submobile\":\"", "\"", &ptr);
+				
+				ptr = Persion.Email;  	
+				GetOneField(persion_t, "\"pubemail\":\"", "\"", &ptr);
+				
+				if(strstr(wr_buf2,"type\":70"))
+				{
+				ptr = Persion.QQ; 	
+				GetOneField(persion_t, "\"value\":\"", "\",\"type\":70", &ptr);
+				}
+				
+				if(strstr(persion_t,"type\":110"))
+				{
+				ptr = Persion.weixin;	
+				GetOneField(persion_t, "\"value\":\"", "\",\"type\":110", &ptr);	
+				}
+				}
+				//Persion.PrintInfo();	
+				Surl_queue.Save_Persioninfo(Persion);	
+			}
+		}	   
+		
+		char* ptr_buf = wr_buf;
+		int flag = get_urlfrom_username(&ptr_buf,threadid);
+		if(flag == 1)
+		{
+			if(wr_buf != NULL)
+			{
+				free(wr_buf);
+			}
+
+		}
 	
 	if(wr_buf2 != NULL)
 	{
@@ -403,56 +473,6 @@ void get_personinfo(char* url, int threadid)
 		wr_buf2 = NULL;
 	}
 
-	char * username_url = strstr(wr_buf,"class=\"mod_relations\"");
-	if(username_url != NULL)
-	{
-		char* username_id = strstr(username_url, "username=\'");
-		char username_id_c[1024*3] = {0};
-		if(username_id != NULL)
-		{
-                strncpy(username_id_c, username_id, (strlen(username_id)>3071)?3071:strlen(username_id));
-		char* username_id_cpy = username_id_c;
-		while(username_id_cpy != NULL)
-                {
-			username_id_cpy += 10;
-			char * username = strstr(username_id_cpy,"\'");
-			if(username != NULL && (username - username_id_cpy) > 2)
-			{
-					
-				memset(url,0,1024);
-				memcpy(url,"http://my.csdn.net/",21);
-				strncat(url,username_id_cpy, ((username - username_id_cpy) > 72)?72:(username - username_id_cpy));
-				
-				struct surl URL;
-				URL.url = (string)url; 		
-				URL.deep_level = 1;
-				//if(Our_queue.find(URL) == -1)
-				if(!Bloom_F_URL._IsIn(URL.url))
-				{
-					if(wr_buf != NULL)
-					{
-						free(wr_buf);
-						wr_buf = NULL;
-					}
-					//Our_queue.Add(URL);			
-		
-					//if(Our_queue.size() > 102400 )
-					//	Our_queue.pop();
-					Bloom_F_URL._Set(URL.url);
-					//if(threadid != 3)
-						get_personinfo(url, threadid);
-					/*else
-						Surl_queue.Save(URL,threadid);
-					*/	
-				}
-				
-			}
-				username_id_cpy = strstr(username, "username=\'");
-		}	
-		}
-	}
-	if(wr_buf != NULL)
-		free(wr_buf);
 	
 	
 }
@@ -500,7 +520,7 @@ void *Curl_Config(void* param)
     		cout << "Totle Time : " <<(double)(endTime - startTime) / CLOCKS_PER_SEC << "s" << endl;  
 		exit(1);
 		}*/
-		Surl_queue.update_queue();			
+		//Surl_queue.update_queue();			
 	
 
 		if(!Surl_queue.empty())
@@ -563,8 +583,13 @@ void *Curl_Config(void* param)
   	/* Allow curl to perform the action */    
   	int ret = curl_easy_perform( curl );    
 //	exit(0);
-	if(strlen(wr_buf) > 0) 
-  		get_url_frompage(wr_buf, threadid , fout);
+	if(strlen(wr_buf) > 0)
+	{
+		if ( t_surl.url.find("/my.csdn.net/") != string::npos )
+			get_personinfo(t_surl.url.c_str(),threadid);
+		else	
+  			get_url_frompage(wr_buf, threadid , fout);
+	} 
 	/*if(Surl_queue.size() > 8000)
 	{
 		Surl_queue.Clear();
@@ -655,6 +680,7 @@ void *Curl_Config(void* param)
      }
   }
   
+  Bloom_F_URL._add_datafromsql();//add data from mysql
  
   curl_ret = curl_global_init(CURL_GLOBAL_SSL);
   if(curl_ret != CURLE_OK) 

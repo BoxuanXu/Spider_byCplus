@@ -79,3 +79,6349 @@ Thread-9 f./run.sh: line 2:  2865 Killed                  /src/spider/spider_mys
 ./run.sh: line 3: `://blog.csdn.net/([^/]+).*detail' '
 ./run.sh: line 2:  3339 Segmentation fault      /src/spider/spider_mysql -u http://my.csdn.net/wireless_com -r 'http://blog.csdn.net/([^/]+).*article','http://blog.csdn.net/([^/]+).*detail'
 ./run.sh: line 3: 18007 Segmentation fault      ./spider_mysql -u http://blog.csdn.net/sunhuaqiang1/article/details/51811770 -r 'http://blog.csdn.net/([^/]+).*article','http://blog.csdn.net/([^/]+).*detail'
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 has been wait for a long time,exit
+Thread-5 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-7 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-1 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+insert false!
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+insert false!
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
+Thread-4 has been wait for a long time,exit
+Thread-5 has been wait for a long time,exit
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 has been wait for a long time,exit
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+Thread-7 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
+Thread-5 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-0 has been wait for a long time,exit
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 has been wait for a long time,exit
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 has been wait for a long time,exit
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-4 has been wait for a long time,exit
+Thread-1 has been wait for a long time,exit
+Thread-7 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 has been wait for a long time,exit
+Thread-1 has been wait for a long time,exit
+Thread-7 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-6 has been wait for a long time,exit
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 has been wait for a long time,exit
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 has been wait for a long time,exit
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 has been wait for a long time,exit
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-3 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-6 has been wait for a long time,exit
+Thread-3 has been wait for a long time,exit
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-1 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+Thread-4 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-5 has been wait for a long time,exit
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 has been wait for a long time,exit
+Thread-3 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+Thread-1 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-4 has been wait for a long time,exit
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 has been wait for a long time,exit
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-7 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
+Thread-7 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-1 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-3 has been wait for a long time,exit
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 has been wait for a long time,exit
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-4 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 has been wait for a long time,exit
+Thread-5 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-3 has been wait for a long time,exit
+Thread-4 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-1 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-7 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+Thread-5 has been wait for a long time,exit
+Thread-1 has been wait for a long time,exit
+Thread-4 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
+Thread-3 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-1 has been wait for a long time,exit
+Thread-5 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
+Thread-7 has been wait for a long time,exit
+Thread-3 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+insert false!
+./run.sh: line 3: 23161 Terminated              ./spider_mysql -u http://my.csdn.net/wireless_com -r 'http://blog.csdn.net/([^/]+).*article','http://blog.csdn.net/([^/]+).*detail'
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+[mysql] conn to 127.0.0.1 [user:root] succ!
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+insert false!
+insert false!
+insert false!
+insert false!
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 has been wait for a long time,exit
+Thread-5 has been wait for a long time,exit
+Thread-4 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+Thread-3 has been wait for a long time,exit
+Thread-1 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+character set error[mysql] conn to 127.0.0.1 [user:root] succ!
+character set error[mysql] conn to 127.0.0.1 [user:root] succ!
+character set errorThread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 has been wait for a long time,exit
+Thread-4 has been wait for a long time,exit
+Thread-7 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
+Thread-3 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-5 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+[mysql] conn to 127.0.0.1 [user:root] succ!
+character set error[mysql] conn to 127.0.0.1 [user:root] succ!
+character set error[mysql] conn to 127.0.0.1 [user:root] succ!
+character set errorThread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-4 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-1 has been wait for a long time,exit
+Thread-5 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-7 has been wait for a long time,exit
+Thread-3 has been wait for a long time,exit
+./run.sh: line 3: 16439 Terminated              ./spider_mysql -u http://my.csdn.net/nsfhnofjbwq -r 'http://blog.csdn.net/([^/]+).*article','http://blog.csdn.net/([^/]+).*detail'
+[mysql] conn to 127.0.0.1 [user:root] succ!
+character set error[mysql] conn to 127.0.0.1 [user:root] succ!
+character set error[mysql] conn to 127.0.0.1 [user:root] succ!
+character set errorinsert false!
+insert false!
+insert false!
+insert false!
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-8 has been wait for a long time,exit
+Thread-7 has been wait for a long time,exit
+Thread-3 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-4 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-1 has been wait for a long time,exit
+Thread-5 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+./run.sh: line 3: 30738 Segmentation fault      ./spider_mysql -u http://blog.csdn.net/dog250/article/details/71076357 -r 'http://blog.csdn.net/([^/]+).*article','http://blog.csdn.net/([^/]+).*detail'
+./run.sh: line 3: 32437 Segmentation fault      ./spider_mysql -u http://blog.csdn.net/soonfly/article/details/51277736 -r 'http://blog.csdn.net/([^/]+).*article','http://blog.csdn.net/([^/]+).*detail'
+[mysql] conn to 127.0.0.1 [user:root] succ!
+character set error[mysql] conn to 127.0.0.1 [user:root] succ!
+character set error[mysql] conn to 127.0.0.1 [user:root] succ!
+character set errorThread-4 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+insert false!
+insert false!
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 find that url quene is empty!sleep 5 minutes
+Thread-1 find that url quene is empty!sleep 5 minutes
+Thread-6 find that url quene is empty!sleep 5 minutes
+Thread-9 find that url quene is empty!sleep 5 minutes
+Thread-2 find that url quene is empty!sleep 5 minutes
+Thread-7 find that url quene is empty!sleep 5 minutes
+Thread-3 find that url quene is empty!sleep 5 minutes
+Thread-0 find that url quene is empty!sleep 5 minutes
+Thread-4 find that url quene is empty!sleep 5 minutes
+Thread-8 find that url quene is empty!sleep 5 minutes
+Thread-5 has been wait for a long time,exit
+Thread-1 has been wait for a long time,exit
+Thread-6 has been wait for a long time,exit
+Thread-9 has been wait for a long time,exit
+Thread-2 has been wait for a long time,exit
+Thread-7 has been wait for a long time,exit
+Thread-3 has been wait for a long time,exit
+Thread-0 has been wait for a long time,exit
+Thread-4 has been wait for a long time,exit
+Thread-8 has been wait for a long time,exit
